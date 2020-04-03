@@ -6,3 +6,5 @@ How to run:
 2. Make sure all files above are in the same directory
 3. Run ```javac Main.java``` from a terminal window in that directory
 4. Run ```java Main``` from a terminal window in that directory
+
+If you just want a taste, view [this](https://youtu.be/0HS6Smo6de0) unlisted youtube video.
